@@ -1,0 +1,26 @@
+id: I8D3DC141
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:21:18.552417+00:00
+last_modified: 2022-12-14 15:21:18.552424+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-040-005
+  eft-text-version: 1.0.7 2021
+  title: Toh_54-The_Exposition_on_the_Universal_Gateway-v2
+bases:
+  D444:
+    source_metadata: null
+    order: 1
+    base_file: D444.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
